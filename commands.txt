@@ -1,0 +1,49 @@
+2. 
+mkdir lab1
+cd lab1
+git init
+-------------
+3. 
+nano l1.txt
+-------------
+5. 
+git add l1.txt
+git commit -m "Initial commit"
+-------------
+6.
+nano l1.txt
+-------------
+7.
+git commit -a -m "modify l1.txt"
+-------------
+9.
+git remote add origin https://github.com/mVucevski/Lab1_SI.git
+-------------
+10.
+git push -u origin master
+-------------
+11.
+nano l1.txt
+git add l1.txt
+git reset HEAD l1.txt
+-------------
+12.
+git branch logging
+-------------
+13.
+git checkout logging
+git log
+git nano log.txt
+-------------
+14.
+git add log.txt
+git commit -m "Add log.txt"
+git push -u origin logging
+-------------
+15.
+git checkout master
+git merge logging
+git push
+-------------
+16.
+git branch allcomands
