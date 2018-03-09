@@ -1,0 +1,16 @@
+commit 913a9c8ee3f7489e6fbb850e7a6876e0d7a78cf2 (HEAD -> logging, 
+origin/master, master)
+Author: miroslav.vucevski@students.finki.ukim.mk 
+<miroslav.vucevski@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:51:57 2018 +0100
+
+    modify l1.txt
+
+commit 995b6956d8e14e286c3e77978ed1657eab5c1a5c
+Author: miroslav.vucevski@students.finki.ukim.mk 
+<miroslav.vucevski@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:47:08 2018 +0100
+
+    Initial commit
+
+
